@@ -5,3 +5,13 @@ specification_version: 1.0
 prototype_version: 1.0
 date: "2021-01-12"
 api_version: 1
+
+runtimes:
+  - editor: JupyterLab
+    kernel: Python 3.6
+    edition: Standard
+
+engine_images:
+  - image_name: engine
+    tags:
+      - 14
