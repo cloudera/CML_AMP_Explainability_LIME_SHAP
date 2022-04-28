@@ -8,7 +8,6 @@ date: "2022-04-27"
 
 runtimes:
   - editor: JupyterLab
-    kernel: Python 3.8
+    kernel: Python 3.9
     edition: Standard
     version: 2021.12
-
