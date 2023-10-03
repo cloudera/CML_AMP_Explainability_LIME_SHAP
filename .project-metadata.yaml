@@ -10,4 +10,3 @@ runtimes:
   - editor: JupyterLab
     kernel: Python 3.9
     edition: Standard
-    version: 2021.12
